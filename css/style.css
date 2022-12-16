@@ -1,1 +1,15 @@
 /* TODO: Make it awesome */
+body {
+    background-color: rgb(11, 118, 1);
+    color:azure
+}
+
+header {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+footer {
+    margin-top: 20px;
+}
